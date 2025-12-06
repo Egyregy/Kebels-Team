@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "message": "We are currently updating our servers. Please check back later. Follow us on Telegram for updates.",
     "background_color": "#DEB887"
   },
@@ -9,7 +9,7 @@
       "username": "kiw",
       "password": "persija",
       "expire_date": "2026-06-30",
-      "device_limit": 1
+      "device_limit": 3
     },
     {
       "username": "vip_user",

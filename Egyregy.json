@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "message": "We are currently updating our servers. Please check back later. Follow us on Telegram for updates.",
     "background_color": "#DEB887"
   },
